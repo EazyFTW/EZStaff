@@ -1,0 +1,3 @@
+# EZStaff
+
+EZStaff from SpigotMC
